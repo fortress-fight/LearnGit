@@ -4,3 +4,6 @@ Git is good software.
 
 Git is a distributed version control system
 测试版本回退的时，添加的文字；
+
+Git has stage
+学习暂存区添加
