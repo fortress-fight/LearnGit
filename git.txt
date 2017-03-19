@@ -7,3 +7,6 @@ Git is a distributed version control system
 
 Git has stage
 学习暂存区添加
+
+Git and change
+学习管理修改时添加
