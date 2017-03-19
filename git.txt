@@ -1,2 +1,2 @@
-这是创建的一个文本，用于测试git
+杩欐槸鍒涘缓鐨勪竴涓枃鏈紝鐢ㄤ簬娴嬭瘯git
 Git is free software.
