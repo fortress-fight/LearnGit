@@ -1,3 +1,6 @@
 这是创建的一个文本，用于测试git
 Git is good software.
 文件的第一个修改（free => good）
+
+Git is a distributed version control system
+测试版本回退的时，添加的文字；
